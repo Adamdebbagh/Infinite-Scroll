@@ -39,6 +39,17 @@ H1 {
     width: 100%;
     margin-top: 5px;
 }
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:#333333;
+    color: white;
+    text-align: center;
+  }
+  .footer a { color:blanchedalmond;}
 /* Media query for large Smartphones */
 
 @media screen and (max-width: 600px) {
